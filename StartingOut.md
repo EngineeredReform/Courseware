@@ -134,15 +134,15 @@ Looking at this [pseudo-code](https://en.wikipedia.org/wiki/Pseudocode) we can s
 
 #### While Loops
 
-asd
+TODO: finish this
 
 #### If Statements
 
-asd
+TODO: finish this
 
 #### Switch-Case Statements
 
-asd
+TODO: finish this
 
 ## Appendix
 
