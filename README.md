@@ -17,7 +17,7 @@ What we're aiming for is to give folks a good foundation on which they can build
 
 ## Where should I start?
 
-Well, if you're new to tech and you're just here to learn - [click here!](./StartingOut.md)
+Well, if you're new to tech and you're just here to learn - [click here!][starting-out]
 
 <!-- LINKS -->
 [starting-out]: ./StartingOut.md

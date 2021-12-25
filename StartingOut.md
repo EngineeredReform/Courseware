@@ -130,7 +130,7 @@ for each car in friendsFavoriteCars
   print some data back to the user so we can solve the problem
 ```
 
-Looking at this [pseudo-code](https://www.merriam-webster.com/dictionary/pseudocode) we can see exactly what we need to do.
+Looking at this [pseudo-code](https://en.wikipedia.org/wiki/Pseudocode) we can see exactly what we need to do.
 
 #### While Loops
 
@@ -172,4 +172,4 @@ asd
 [appendix]: #appendix
 
 <!-- EXTERNAL LINKS -->
-[vscode]: https://microsoft.com/
+[vscode]: https://code.visualstudio.com/
